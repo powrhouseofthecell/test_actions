@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "pnpm dlx jest"
+    "test": "npx jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "zuhaib",
   "license": "ISC",
   "devDependencies": {
     "@babel/preset-env": "^7.24.0",
