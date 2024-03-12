@@ -3,5 +3,5 @@ export function change_case(arg: string): { uppercase: string; lowercase: string
 }
 
 export function reverse(arg: string): string {
-  return '';
+  return arg.split('').reverse().join('');
 }
